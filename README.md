@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @Hafizh-hs
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning javascript because im newbie
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h3 align="center">Hello there, I'm Hafizh 👋</h3>
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/hafizh-hadisiswo-17a757221" title="LinkedIn"><img width="22" src="https://github.com/Hafizh-hs/Hafizh-hs/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/hfz.hh/" title="Instagram Profile"><img width="22" src="https://github.com/Hafizh-hs/Hafizh-hs/blob/master/images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
+<p align="center">
+  Hi, I'm Hafizh Hadisiswo, Front-End  & Back-End Developer from Indonesia 
+  <br>
+  <br>
+  💻 I interesting with Cyber Security
+  <br>
+  📚 I’m currently learning Node js and Cyber Security 
+ 
+</p>
 
-<!---
-Hafizh-hs/Hafizh-hs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<hr>
+
+<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+
+<p align="center">
+  <code><img title="Javascript" height="25" src="https://github.com/Hafizh-hs/Hafizh-hs/blob/master/images/javascript.svg"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/Hafizh-hs/Hafizh-hs/blob/master/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/Hafizh-hs/Hafizh-hs/blob/master/images/css.svg"></code>
+  <code><img title="JQuery" height="25" src="https://github.com/Hafizh-hs/Hafizh-hs/blob/master/images/jquery.svg"></code>
+  <code><img title="JSON" height="25" src="https://github.com/Hafizh-hs/Hafizh-hs/blob/master/images/json.svg"></code>
+</p>
+
+<hr>
+
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Hafizh-hs&show_icons=true&theme=gotham"></a>
