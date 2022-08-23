@@ -1,9 +1,5 @@
 <h3 align="center">Hello there, I'm Hafizh 👋</h3>
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/hafizh-hadisiswo-17a757221" title="LinkedIn"><img width="22" src="https://github.com/Hafizh-hs/Hafizh-hs/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/hfz.hh/" title="Instagram Profile"><img width="22" src="https://github.com/Hafizh-hs/Hafizh-hs/blob/master/images/instagram.svg"> Instagram</a></code>
-</h5>
+
 <br>
 <p align="center">
   Hi, I'm Hafizh Hadisiswo, Front-End  & Back-End Developer from Indonesia 
